@@ -1,4 +1,4 @@
-# isolation-forest
+# Isolation Forest from Scratch
 
 This is my implementation of Isolation Forest from scratch in Python. Isolation Forest is an unsupervised machine learning algorithm for anomaly detection created by Fei Tony Liu, Kai Ming Ting, and Zhi-Hua Zhou. More details can be found in their paper Isolation-based Anomaly Detection: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.673.5779&rep=rep1&type=pdf
 
